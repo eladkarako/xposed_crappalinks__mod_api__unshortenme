@@ -1,0 +1,2 @@
+# xposed_crappalinks__mod_api__unshortenme
+CrappaLinks modification using APKTool, and smali editing (not building from source) that changes the old 'http://api.longurl.org/v2/expand?format=json&amp;title=1&amp;url=' to 'http://unshorten.me/json/', along with minimal version change and allowing HTTP connection on newer Android OS. Included decompiled "original source" in one branch and modified source in another.
