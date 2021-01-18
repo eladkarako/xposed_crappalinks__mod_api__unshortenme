@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: xposed - CrappaLinks 3.0.1_301.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '11'
+  targetSdkVersion: '19'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  org/jsoup/nodes/entities-base.properties: '8'
+  org/jsoup/nodes/entities-full.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.1-e25c0f-SNAPSHOT
+versionInfo:
+  versionCode: '301'
+  versionName: '3.0.1'

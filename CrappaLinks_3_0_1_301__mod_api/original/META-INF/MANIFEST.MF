@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Built-By: 0.12.2
+Created-By: Android Gradle 0.12.2
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: CoMyNLTC3G9g/aFdzoqI9mXiKuw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: oqNEcHZSYl1M7kqgSFO75Wq/jsM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: mqHStfZMz9MRXFPlDhzsdKA+T6o=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: tnttTCsQP1D2swXRnDTd1KBmrNQ=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: GGECs3/ztDnWbYv+CYzxzkBnoq4=
+
+Name: resources.arsc
+SHA1-Digest: 9X3fm+3wJVvV5bnibQHtO2fSO5w=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: AFSgQ5iKN+T46TMZbysEx2T32t8=
+
+Name: classes.dex
+SHA1-Digest: Hf7UU/dAkqyVURZM0/jzu/Nmswo=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: 873xzG4VdM9n8IFqpkCkzAIpGOo=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: u//ruWssq3OmL4VQh1siTefEXs8=
+
+Name: assets/xposed_init
+SHA1-Digest: UaVZXtuaMaq08uUJqKdiNE/F6HA=
+

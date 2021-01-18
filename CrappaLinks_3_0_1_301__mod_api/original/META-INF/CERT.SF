@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: kBEf4bjHB/73XFEZaRA2Ej5JBIE=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: HM3QDWq0UP1SjIPad7RlGy0gcVQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rxIet71iqyulw86QpJ1SkvVCWtM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: AvTc4syITQaN6dA9wCaTxjkq224=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: eqUbwA6LRu0i0STNfOl9huBmXk4=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: sz73WQCs6oeNIBNqaLxenv3wgSs=
+
+Name: resources.arsc
+SHA1-Digest: ZHbSti2hKpLVAmvAnulzeJiAY68=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Z8ulpemF+5Nai8XAhhsyRFteoXU=
+
+Name: classes.dex
+SHA1-Digest: rkrhYUJRL37owE169ebtAMXF38o=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: NwfYghFpxeygsHfagttWyP450uY=
+
+Name: assets/xposed_init
+SHA1-Digest: U380T8xPagN7wBO262U4JoK3oAI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: fUuQyRcf/e0jRXYdFPiMglFs3fo=
+

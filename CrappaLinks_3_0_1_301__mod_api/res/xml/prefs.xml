@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/category_unshort">
+        <CheckBoxPreference android:title="@string/pref_unshorten_urls_title" android:key="pref_unshorten_urls" android:summary="@string/pref_unshorten_urls_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/toast_type_entries" android:title="@string/pref_toast_type_title" android:key="pref_toast_type" android:summary="@string/pref_toast_type_summary" android:dependency="pref_unshorten_urls" android:defaultValue="2" android:dialogTitle="@string/pref_toast_type_title" android:entryValues="@array/toast_type_values" />
+        <CheckBoxPreference android:title="@string/pref_confirm_open_title" android:key="pref_confirm_open" android:summary="@string/pref_confirm_open_summary" android:dependency="pref_unshorten_urls" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/pref_use_long_url_title" android:key="pref_use_long_url" android:summary="@string/pref_use_long_url_summary" android:dependency="pref_unshorten_urls" android:defaultValue="false" />
+        <ListPreference android:entries="@array/resolve_all_entries" android:title="@string/pref_resolve_all_title" android:key="pref_resolve_all_when" android:summary="@string/pref_resolve_all_summary" android:dependency="pref_unshorten_urls" android:defaultValue="ALWAYS" android:entryValues="@array/resolve_all_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_about">
+        <Preference android:title="@string/pref_support_title" android:key="pref_support" android:summary="@string/pref_support_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="http://forum.xda-developers.com/showthread.php?t=2603868" />
+        </Preference>
+        <Preference android:title="@string/pref_xposed_title" android:summary="@string/pref_xposed_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="http://forum.xda-developers.com/showthread.php?t=1574401" />
+        </Preference>
+        <Preference android:title="@string/pref_jsoup_title" android:summary="@string/pref_jsoup_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="http://jsoup.org/" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_other">
+        <CheckBoxPreference android:title="@string/pref_show_app_icon_title" android:key="pref_show_app_icon" android:summary="@string/pref_show_app_icon_summary" android:defaultValue="true" />
+        <Preference android:title="@string/pref_submit_title" android:summary="@string/pref_submit_summary">
+            <intent android:action="android.intent.action.VIEW" android:data="https://docs.google.com/forms/d/1R_jgpNa_uDPB9NVSnKa3dlDLQF2bWDnjJL1RI9kheYM/viewform?usp=send_form" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>
