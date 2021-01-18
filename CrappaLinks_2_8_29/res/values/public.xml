@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="xml" name="prefs" id="0x7f030000" />
+    <public type="array" name="resolve_all_entries" id="0x7f040000" />
+    <public type="array" name="resolve_all_values" id="0x7f040001" />
+    <public type="array" name="toast_type_entries" id="0x7f040002" />
+    <public type="array" name="toast_type_values" id="0x7f040003" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="category_about" id="0x7f050001" />
+    <public type="string" name="category_other" id="0x7f050002" />
+    <public type="string" name="category_unshort" id="0x7f050003" />
+    <public type="string" name="dialog_confirm_open" id="0x7f050004" />
+    <public type="string" name="dialog_no" id="0x7f050005" />
+    <public type="string" name="dialog_yes" id="0x7f050006" />
+    <public type="string" name="pref_confirm_open_summary" id="0x7f050007" />
+    <public type="string" name="pref_confirm_open_title" id="0x7f050008" />
+    <public type="string" name="pref_jsoup_summary" id="0x7f050009" />
+    <public type="string" name="pref_jsoup_title" id="0x7f05000a" />
+    <public type="string" name="pref_resolve_all_summary" id="0x7f05000b" />
+    <public type="string" name="pref_resolve_all_title" id="0x7f05000c" />
+    <public type="string" name="pref_show_app_icon_summary" id="0x7f05000d" />
+    <public type="string" name="pref_show_app_icon_title" id="0x7f05000e" />
+    <public type="string" name="pref_submit_summary" id="0x7f05000f" />
+    <public type="string" name="pref_submit_title" id="0x7f050010" />
+    <public type="string" name="pref_support_summary" id="0x7f050011" />
+    <public type="string" name="pref_support_title" id="0x7f050012" />
+    <public type="string" name="pref_toast_type_summary" id="0x7f050013" />
+    <public type="string" name="pref_toast_type_title" id="0x7f050014" />
+    <public type="string" name="pref_unshorten_urls_summary" id="0x7f050015" />
+    <public type="string" name="pref_unshorten_urls_title" id="0x7f050016" />
+    <public type="string" name="pref_use_long_url_summary" id="0x7f050017" />
+    <public type="string" name="pref_use_long_url_title" id="0x7f050018" />
+    <public type="string" name="pref_xposed_summary" id="0x7f050019" />
+    <public type="string" name="pref_xposed_title" id="0x7f05001a" />
+    <public type="string" name="resolve_all_always" id="0x7f05001b" />
+    <public type="string" name="resolve_all_never" id="0x7f05001c" />
+    <public type="string" name="resolve_all_wifi" id="0x7f05001d" />
+    <public type="string" name="toast_message_done" id="0x7f05001e" />
+    <public type="string" name="toast_message_error" id="0x7f05001f" />
+    <public type="string" name="toast_message_network" id="0x7f050020" />
+    <public type="string" name="toast_message_started" id="0x7f050021" />
+    <public type="string" name="toast_type_entries_brief" id="0x7f050022" />
+    <public type="string" name="toast_type_entries_full" id="0x7f050023" />
+    <public type="string" name="toast_type_entries_off" id="0x7f050024" />
+</resources>
